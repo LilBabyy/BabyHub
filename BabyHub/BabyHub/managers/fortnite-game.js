@@ -38,7 +38,7 @@ module.exports = (app, port) => {
                         "_type": "CommonUI Simple Message Base",
                         "subgame": "br",
                         "body": "Made by Baby#1111 (@BabyOnYT).\r\nDiscord: https://discord.gg/TUFRj6CE5B",
-                        "title": "BabyHub v2.3",
+                        "title": "BabyHub v2.4",
                         "spotlight": false
                     },
                     ],
@@ -62,7 +62,7 @@ module.exports = (app, port) => {
                         {
                             "hidden": false,
                             "_type": "CommonUI Emergency Notice Base",
-                            "title": "BabyHub v2.3",
+                            "title": "BabyHub v2.4",
                             "body": "Made by Baby#1111 (@BabyOnYT).\r\nDiscord: https://discord.gg/TUFRj6CE5B",
                         }
                     ]
