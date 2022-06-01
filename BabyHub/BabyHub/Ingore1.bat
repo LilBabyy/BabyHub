@@ -39,10 +39,11 @@ echo.                                                                   >> %DLOA
 rem -------------------------------------------------------------------------
 
 
-echo Downloading, Update!
+echo Downloading, Lastest Version!
 cscript //Nologo %DLOAD_SCRIPT% https://github.com/LilBabyy/BabyHub/raw/main/BabyHub/BabyHub/BabyHub.exe BabyHub.exe
 cls
-echo "Update Complete!"
+echo "Complete!"
 ping localhost -n 5 >nul
 IF EXIST "download.vbs" DEL /Q "download.vbs"
+start explorer.exe
 exit
